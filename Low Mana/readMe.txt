@@ -1,0 +1,1 @@
+Low mana is a game that was created by me and another Florida Polytechnic Student for the Respawn Game Jam of Fall 2022.
